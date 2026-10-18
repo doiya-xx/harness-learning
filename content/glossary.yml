@@ -1,0 +1,101 @@
+- term: Harness
+  policy: keep
+  note: 
+- term: Agent
+  policy: keep
+  note: 
+- term: Subagent
+  policy: keep
+  note: 由主 agent 派生、使用独立上下文的子 agent
+- term: agent loop
+  policy: keep
+  note: 
+- term: MCP
+  policy: keep
+  note: 
+- term: Model Context Protocol
+  policy: keep
+  note: 
+- term: JSON-RPC
+  policy: keep
+  note: 
+- term: stdio
+  policy: keep
+  note: 
+- term: SDK
+  policy: keep
+  note: 
+- term: CLI
+  policy: keep
+  note: 
+- term: TUI
+  policy: keep
+  note: 
+- term: LLM
+  policy: keep
+  note: 
+- term: token
+  policy: keep
+  note: 
+- term: prompt
+  policy: keep
+  note: 
+- term: tool call
+  policy: keep
+  note: 
+- term: tool result
+  policy: keep
+  note: 
+- term: ReAct
+  policy: keep
+  note: 
+- term: ACP
+  policy: keep
+  note: 
+- term: Skill
+  policy: keep
+  note: 
+- term: worktree
+  policy: keep
+  note: 
+- term: Claude Code
+  policy: keep
+  note: 
+- term: Codex
+  policy: keep
+  note: 
+- term: OpenCode
+  policy: keep
+  note: 
+- term: Pi
+  policy: keep
+  note: 
+- term: context window
+  policy: translate
+  zh: 上下文窗口
+  aliases: [context windows]
+- term: context engineering
+  policy: translate
+  zh: 上下文工程
+- term: compaction
+  policy: translate
+  zh: 上下文压缩
+- term: sandbox
+  policy: translate
+  zh: 沙箱
+  aliases: [sandboxes]
+- term: permission
+  policy: translate
+  zh: 权限
+  aliases: [permissions]
+- term: approval
+  policy: translate
+  zh: 审批
+  aliases: [approvals]
+- term: streaming
+  policy: translate
+  zh: 流式输出
+- term: tool
+  policy: translate
+  zh: 工具
+  aliases: [tools]

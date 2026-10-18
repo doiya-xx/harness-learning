@@ -1,0 +1,4 @@
+node_modules
+dist
+scripts/link-report.json
+*.tsbuildinfo

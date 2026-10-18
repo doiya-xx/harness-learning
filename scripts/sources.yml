@@ -1,0 +1,12 @@
+# 抓取来源：每项 { repo 或 url, path(仅 repo), cat, title, order }
+# 运行 npm run fetch；抓取后需翻译 zh.md（块对齐），再运行 npm run check:align。
+# 例：
+# - repo: owner/name
+#   path: README.md
+#   cat: 02 教程仓库
+#   title: 标题
+#   order: 1
+# - url: https://example.com/post
+#   cat: 03 博客
+#   title: 标题
+#   order: 1
